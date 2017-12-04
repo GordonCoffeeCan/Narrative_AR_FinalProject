@@ -9,6 +9,8 @@ public class EnergyManager : MonoBehaviour {
 
     [SerializeField] private Text totalEnergyNumber;
 
+    [SerializeField] private Image MenuPanel;
+
     [SerializeField] private Text sleepHourNumber;
     [SerializeField] private Text caloriesNumber;
     [SerializeField] private Text exercisedNumber;
@@ -73,7 +75,31 @@ public class EnergyManager : MonoBehaviour {
             nutrientsPoint += 2;
         }
 
-        
+        if (caloriesSlider.value < 1200 || caloriesSlider.value > 1600) {
+            nutrientsPoint -= 1;
+        }else if (caloriesSlider.value >= 1200 || caloriesSlider.value <= 1600) {
+            nutrientsPoint += 2;
+        }
+
+        if (exercisedSlider. value < 30 || exercisedSlider.value > 60) {
+            nutrientsPoint -= 1;
+        } else if (exercisedSlider.value >= 30 || exercisedSlider.value <= 60) {
+            nutrientsPoint += 2;
+        }
+
+        if (smokedYes.isOn) {
+            nutrientsPoint -= 2;
+        } else {
+            nutrientsPoint += 2;
+        }
+
+        if (drinkedYes.isOn) {
+            nutrientsPoint -= 2;
+        } else {
+            nutrientsPoint += 2;
+        }
+
         totalEnergyNumber.text = nutrientsPoint.ToString();
+        MenuPanel.gameObject.SetActive(false);
     }
 }
