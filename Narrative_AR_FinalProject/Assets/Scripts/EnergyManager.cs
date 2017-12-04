@@ -73,9 +73,7 @@ public class EnergyManager : MonoBehaviour {
             nutrientsPoint += 2;
         }
 
-        if () {
-
-        }
+        
         totalEnergyNumber.text = nutrientsPoint.ToString();
     }
 }
