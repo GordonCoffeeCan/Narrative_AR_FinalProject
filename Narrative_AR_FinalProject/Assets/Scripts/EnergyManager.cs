@@ -5,6 +5,8 @@ using UnityEngine.UI;
 
 public class EnergyManager : MonoBehaviour {
 
+    public static EnergyManager instance;
+
     [SerializeField] private Text totalEnergyNumber;
 
     [SerializeField] private Text sleepHourNumber;
@@ -23,16 +25,17 @@ public class EnergyManager : MonoBehaviour {
 
     [SerializeField] private Button confirmButton;
 
-    [HideInInspector] public int energyPoints;
+    [HideInInspector] public int nutrientsPoint;
 
     // Use this for initialization
     void Start () {
-		
-	}
+        instance = this;
+
+    }
 	
 	// Update is called once per frame
 	void Update () {
-        totalEnergyNumber.text = energyPoints.ToString();
+        
 	}
 
     public void changeSleepHours() {
@@ -61,5 +64,18 @@ public class EnergyManager : MonoBehaviour {
 
     public void changeDrinkNoToggle() {
         drinkedYes.isOn = !drinkedNo.isOn;
+    }
+
+    public void OnConfirm() {
+        if (sleepSlider.value < 8 || sleepSlider.value > 10) {
+            nutrientsPoint -= 1;
+        }else if (sleepSlider.value >= 8 || sleepSlider.value <= 10) {
+            nutrientsPoint += 2;
+        }
+
+        if () {
+
+        }
+        totalEnergyNumber.text = nutrientsPoint.ToString();
     }
 }
