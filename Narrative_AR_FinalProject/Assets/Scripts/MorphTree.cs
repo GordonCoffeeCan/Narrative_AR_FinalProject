@@ -9,6 +9,8 @@ public class MorphTree: MonoBehaviour
     [Range(0, 1)]
     public float currentGrowth;
     public float addedValue;
+    public float morphTime;
+    public float pointsGained;
 	
 	void Start ()
 	{
@@ -33,4 +35,17 @@ public class MorphTree: MonoBehaviour
 			
 		
 	}
+
+    public void buttonPress ()
+    {
+        EnergyManager.instance.nutrientsPoint = pointsGained;
+    }
+
+    IEnumerator PointUpdate ()
+    {
+        addedValue = pointsGained * .1f;
+        yield return new WaitForSeconds(1f);
+
+        Mathf.Lerp(currentGrowth,currentGrowth + addedValue, morphTime);
+    }
 }
