@@ -28,17 +28,14 @@ public class MorphTree: MonoBehaviour
 	
 	void Update ()
 	{
-
         anim["grow"].normalizedTime = currentGrowth;
 			
 			transform.GetComponent<Animation> ().Play ("grow");
-			
-		
 	}
 
     public void buttonPress ()
     {
-        EnergyManager.instance.nutrientsPoint = pointsGained;
+        pointsGained = EnergyManager.instance.nutrientsPoint;
     }
 
     IEnumerator PointUpdate ()
