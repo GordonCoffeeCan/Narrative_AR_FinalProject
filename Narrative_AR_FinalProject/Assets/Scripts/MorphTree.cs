@@ -8,6 +8,7 @@ public class MorphTree: MonoBehaviour
 
     [Range(0, 1)]
     public float currentGrowth;
+
     public float addedValue;
     public float morphTime;
     public float pointsGained;

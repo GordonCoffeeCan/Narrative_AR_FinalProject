@@ -7,6 +7,8 @@ public class EnergyManager : MonoBehaviour {
 
     public static EnergyManager instance;
 
+    [SerializeField] private MorphTree treeGrowth;
+
     [SerializeField] private Text totalEnergyNumber;
 
     [SerializeField] private Image MenuPanel;
@@ -29,16 +31,22 @@ public class EnergyManager : MonoBehaviour {
 
     [HideInInspector] public int nutrientsPoint;
 
+    [HideInInspector] public bool targetFound = false;
+
+    private float targetAmount = 0;
+
     // Use this for initialization
     void Start () {
         instance = this;
-
     }
 	
 	// Update is called once per frame
 	void Update () {
-        
-	}
+        if(nutrientsPoint != 0 && targetFound) {
+            treeGrowth.currentGrowth = Mathf.MoveTowards(treeGrowth.currentGrowth, targetAmount, 0.002f);
+            Debug.Log(treeGrowth.currentGrowth);
+        }
+    }
 
     public void changeSleepHours() {
         sleepHourNumber.text = sleepSlider.value.ToString() + " Hours";
@@ -101,5 +109,7 @@ public class EnergyManager : MonoBehaviour {
 
         totalEnergyNumber.text = nutrientsPoint.ToString();
         MenuPanel.gameObject.SetActive(false);
+
+        targetAmount = treeGrowth.currentGrowth + (float)nutrientsPoint / 100;
     }
 }
