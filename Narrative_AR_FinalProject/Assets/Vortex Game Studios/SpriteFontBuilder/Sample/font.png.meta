@@ -1,0 +1,3336 @@
+fileFormatVersion: 2
+guid: b4a43a63801ac2b439647bc46da2d429
+timeCreated: 1487710359
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Littera Font_0
+    21300002: Littera Font_1
+    21300004: Littera Font_2
+    21300006: Littera Font_3
+    21300008: Littera Font_4
+    21300010: Littera Font_5
+    21300012: Littera Font_6
+    21300014: Littera Font_7
+    21300016: Littera Font_8
+    21300018: Littera Font_9
+    21300020: Littera Font_10
+    21300022: Littera Font_11
+    21300024: Littera Font_12
+    21300026: Littera Font_13
+    21300028: Littera Font_14
+    21300030: Littera Font_15
+    21300032: Littera Font_16
+    21300034: Littera Font_17
+    21300036: Littera Font_18
+    21300038: Littera Font_19
+    21300040: Littera Font_20
+    21300042: Littera Font_21
+    21300044: Littera Font_22
+    21300046: Littera Font_23
+    21300048: Littera Font_24
+    21300050: Littera Font_25
+    21300052: Littera Font_26
+    21300054: Littera Font_27
+    21300056: Littera Font_28
+    21300058: Littera Font_29
+    21300060: Littera Font_30
+    21300062: Littera Font_31
+    21300064: Littera Font_32
+    21300066: Littera Font_33
+    21300068: Littera Font_34
+    21300070: Littera Font_35
+    21300072: Littera Font_36
+    21300074: Littera Font_37
+    21300076: Littera Font_38
+    21300078: Littera Font_39
+    21300080: Littera Font_40
+    21300082: Littera Font_41
+    21300084: Littera Font_42
+    21300086: Littera Font_43
+    21300088: Littera Font_44
+    21300090: Littera Font_45
+    21300092: Littera Font_46
+    21300094: Littera Font_47
+    21300096: Littera Font_48
+    21300098: Littera Font_49
+    21300100: Littera Font_50
+    21300102: Littera Font_51
+    21300104: Littera Font_52
+    21300106: Littera Font_53
+    21300108: Littera Font_54
+    21300110: Littera Font_55
+    21300112: Littera Font_56
+    21300114: Littera Font_57
+    21300116: Littera Font_58
+    21300118: Littera Font_59
+    21300120: Littera Font_60
+    21300122: Littera Font_61
+    21300124: Littera Font_62
+    21300126: Littera Font_63
+    21300128: Littera Font_64
+    21300130: Littera Font_65
+    21300132: Littera Font_66
+    21300134: Littera Font_67
+    21300136: Littera Font_68
+    21300138: Littera Font_69
+    21300140: Littera Font_70
+    21300142: Littera Font_71
+    21300144: Littera Font_72
+    21300146: Littera Font_73
+    21300148: Littera Font_74
+    21300150: Littera Font_75
+    21300152: Littera Font_76
+    21300154: Littera Font_77
+    21300156: Littera Font_78
+    21300158: Littera Font_79
+    21300160: Littera Font_80
+    21300162: Littera Font_81
+    21300164: Littera Font_82
+    21300166: Littera Font_83
+    21300168: Littera Font_84
+    21300170: Littera Font_85
+    21300172: Littera Font_86
+    21300174: Littera Font_87
+    21300176: Littera Font_88
+    21300178: Littera Font_89
+    21300180: Littera Font_90
+    21300182: Littera Font_91
+    21300184: Littera Font_92
+    21300186: Littera Font_93
+    21300188: Littera Font_94
+    21300190: Font_0
+    21300192: Font_1
+    21300194: Font_2
+    21300196: Font_3
+    21300198: Font_4
+    21300200: Font_5
+    21300202: Font_6
+    21300204: Font_7
+    21300206: Font_8
+    21300208: Font_9
+    21300210: Font_10
+    21300212: Font_11
+    21300214: Font_12
+    21300216: Font_13
+    21300218: Font_14
+    21300220: Font_15
+    21300222: Font_16
+    21300224: Font_17
+    21300226: Font_18
+    21300228: Font_19
+    21300230: Font_20
+    21300232: Font_21
+    21300234: Font_22
+    21300236: Font_23
+    21300238: Font_24
+    21300240: Font_25
+    21300242: Font_26
+    21300244: Font_27
+    21300246: Font_28
+    21300248: Font_29
+    21300250: Font_30
+    21300252: Font_31
+    21300254: Font_32
+    21300256: Font_33
+    21300258: Font_34
+    21300260: Font_35
+    21300262: Font_36
+    21300264: Font_37
+    21300266: Font_38
+    21300268: Font_39
+    21300270: Font_40
+    21300272: Font_41
+    21300274: Font_42
+    21300276: Font_43
+    21300278: Font_44
+    21300280: Font_45
+    21300282: Font_46
+    21300284: Font_47
+    21300286: Font_48
+    21300288: Font_49
+    21300290: Font_50
+    21300292: Font_51
+    21300294: Font_52
+    21300296: Font_53
+    21300298: Font_54
+    21300300: Font_55
+    21300302: Font_56
+    21300304: Font_57
+    21300306: Font_58
+    21300308: Font_59
+    21300310: Font_60
+    21300312: Font_61
+    21300314: Font_62
+    21300316: Font_63
+    21300318: Font_64
+    21300320: Font_65
+    21300322: Font_66
+    21300324: Font_67
+    21300326: Font_68
+    21300328: Font_69
+    21300330: Font_70
+    21300332: Font_71
+    21300334: Font_72
+    21300336: Font_73
+    21300338: Font_74
+    21300340: Font_75
+    21300342: Font_76
+    21300344: Font_77
+    21300346: Font_78
+    21300348: Font_79
+    21300350: Font_80
+    21300352: Font_81
+    21300354: Font_82
+    21300356: Font_83
+    21300358: Font_84
+    21300360: Font_85
+    21300362: Font_86
+    21300364: Font_87
+    21300366: Font_88
+    21300368: Font_89
+    21300370: Font_90
+    21300372: Font_91
+    21300374: Font_92
+    21300376: Font_93
+    21300378: Font_94
+    21300380: Another Font_0
+    21300382: Another Font_1
+    21300384: Another Font_2
+    21300386: Another Font_3
+    21300388: Another Font_4
+    21300390: Another Font_5
+    21300392: Another Font_6
+    21300394: Another Font_7
+    21300396: Another Font_8
+    21300398: Another Font_9
+    21300400: Another Font_10
+    21300402: Another Font_11
+    21300404: Another Font_12
+    21300406: Another Font_13
+    21300408: Another Font_14
+    21300410: Another Font_15
+    21300412: Another Font_16
+    21300414: Another Font_17
+    21300416: Another Font_18
+    21300418: Another Font_19
+    21300420: Another Font_20
+    21300422: Another Font_21
+    21300424: Another Font_22
+    21300426: Another Font_23
+    21300428: Another Font_24
+    21300430: Another Font_25
+    21300432: Another Font_26
+    21300434: Another Font_27
+    21300436: Another Font_28
+    21300438: Another Font_29
+    21300440: Another Font_30
+    21300442: Another Font_31
+    21300444: Another Font_32
+    21300446: Another Font_33
+    21300448: Another Font_34
+    21300450: Another Font_35
+    21300452: Another Font_36
+    21300454: Another Font_37
+    21300456: Another Font_38
+    21300458: Another Font_39
+    21300460: Another Font_40
+    21300462: Another Font_41
+    21300464: Another Font_42
+    21300466: Another Font_43
+    21300468: Another Font_44
+    21300470: Another Font_45
+    21300472: Another Font_46
+    21300474: Another Font_47
+    21300476: Another Font_48
+    21300478: Another Font_49
+    21300480: Another Font_50
+    21300482: Another Font_51
+    21300484: Another Font_52
+    21300486: Another Font_53
+    21300488: Another Font_54
+    21300490: Another Font_55
+    21300492: Another Font_56
+    21300494: Another Font_57
+    21300496: Another Font_58
+    21300498: Another Font_59
+    21300500: Another Font_60
+    21300502: Another Font_61
+    21300504: Another Font_62
+    21300506: Another Font_63
+    21300508: Another Font_64
+    21300510: Another Font_65
+    21300512: Another Font_66
+    21300514: Another Font_67
+    21300516: Another Font_68
+    21300518: Another Font_69
+    21300520: Another Font_70
+    21300522: Another Font_71
+    21300524: Another Font_72
+    21300526: Another Font_73
+    21300528: Another Font_74
+    21300530: Another Font_75
+    21300532: Another Font_76
+    21300534: Another Font_77
+    21300536: Another Font_78
+    21300538: Another Font_79
+    21300540: Another Font_80
+    21300542: Another Font_81
+    21300544: Another Font_82
+    21300546: Another Font_83
+    21300548: Another Font_84
+    21300550: Another Font_85
+    21300552: Another Font_86
+    21300554: Another Font_87
+    21300556: Another Font_88
+    21300558: Another Font_89
+    21300560: Another Font_90
+    21300562: Another Font_91
+    21300564: Another Font_92
+    21300566: Another Font_93
+    21300568: Another Font_94
+    21300570: Littera Font_95
+    21300572: Littera Font_96
+    21300574: Littera Font_97
+    21300576: Littera Font_98
+    21300578: Littera Font_99
+    21300580: Littera Font_100
+    21300582: Littera Font_101
+    21300584: Littera Font_102
+    21300586: Littera Font_103
+    21300588: Littera Font_104
+    21300590: Littera Font_105
+    21300592: Littera Font_106
+    21300594: Littera Font_107
+    21300596: Littera Font_108
+    21300598: Littera Font_109
+    21300600: Littera Font_110
+    21300602: Littera Font_111
+    21300604: Littera Font_112
+    21300606: Littera Font_113
+    21300608: Littera Font_114
+    21300610: Littera Font_115
+    21300612: Littera Font_116
+    21300614: Littera Font_117
+    21300616: Littera Font_118
+    21300618: Littera Font_119
+    21300620: Littera Font_120
+    21300622: Littera Font_121
+    21300624: Littera Font_122
+    21300626: Littera Font_123
+    21300628: Littera Font_124
+    21300630: Littera Font_125
+    21300632: Littera Font_126
+    21300634: Littera Font_127
+    21300636: Littera Font_128
+    21300638: Littera Font_129
+    21300640: Littera Font_130
+    21300642: Littera Font_131
+    21300644: Littera Font_132
+    21300646: Littera Font_133
+    21300648: Littera Font_134
+    21300650: Littera Font_135
+    21300652: Littera Font_136
+    21300654: Littera Font_137
+    21300656: Littera Font_138
+    21300658: Littera Font_139
+    21300660: Littera Font_140
+    21300662: Littera Font_141
+    21300664: Littera Font_142
+    21300666: Littera Font_143
+    21300668: Littera Font_144
+    21300670: Littera Font_145
+    21300672: Littera Font_146
+    21300674: Littera Font_147
+    21300676: Littera Font_148
+    21300678: Littera Font_149
+    21300680: Littera Font_150
+    21300682: Littera Font_151
+    21300684: Littera Font_152
+    21300686: Littera Font_153
+    21300688: Littera Font_154
+    21300690: Littera Font_155
+    21300692: Littera Font_156
+    21300694: Littera Font_157
+    21300696: Littera Font_158
+    21300698: Littera Font_159
+    21300700: Littera Font_160
+    21300702: Littera Font_161
+    21300704: Littera Font_162
+    21300706: Littera Font_163
+    21300708: Littera Font_164
+    21300710: Littera Font_165
+    21300712: Littera Font_166
+    21300714: Littera Font_167
+    21300716: Littera Font_168
+    21300718: Littera Font_169
+    21300720: Littera Font_170
+    21300722: Littera Font_171
+    21300724: Littera Font_172
+    21300726: Littera Font_173
+    21300728: Littera Font_174
+    21300730: Littera Font_175
+    21300732: Littera Font_176
+    21300734: Littera Font_177
+    21300736: Littera Font_178
+    21300738: Littera Font_179
+    21300740: Littera Font_180
+    21300742: Littera Font_181
+    21300744: Littera Font_182
+    21300746: Littera Font_183
+    21300748: Littera Font_184
+    21300750: Littera Font_185
+    21300752: Littera Font_186
+    21300754: Littera Font_187
+    21300756: Littera Font_188
+    21300758: Littera Font_189
+    21300760: Littera Font_190
+    21300762: Littera Font_191
+    21300764: Littera Font_192
+    21300766: Littera Font_193
+    21300768: Littera Font_194
+    21300770: Littera Font_195
+    21300772: Littera Font_196
+    21300774: Littera Font_197
+    21300776: Littera Font_198
+    21300778: Littera Font_199
+    21300780: Littera Font_200
+    21300782: Littera Font_201
+    21300784: Littera Font_202
+    21300786: Littera Font_203
+    21300788: Littera Font_204
+    21300790: Littera Font_205
+    21300792: Littera Font_206
+    21300794: Littera Font_207
+    21300796: Littera Font_208
+    21300798: Littera Font_209
+    21300800: Littera Font_210
+    21300802: Littera Font_211
+    21300804: Littera Font_212
+    21300806: Littera Font_213
+    21300808: Littera Font_214
+    21300810: Littera Font_215
+    21300812: Littera Font_216
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Littera Font_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 456
+        width: 10
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 434
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 377
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 444
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 318
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 386
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 490
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 246
+        width: 19
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 174
+        width: 20
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 464
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 474
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 490
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 453
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 501
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 261
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 117
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 205
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 61
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 149
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 205
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 261
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 331
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 417
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 92
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 460
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 10
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_28
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 391
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 12
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 92
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_31
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 20
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 149
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_33
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 93
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_34
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 273
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 335
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_36
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 217
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_37
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 217
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 277
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_39
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 161
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 221
+        width: 9
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 104
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_42
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 165
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_43
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 221
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_44
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 48
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 109
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_46
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 51
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_47
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 456
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 395
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_49
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 456
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 337
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_51
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 281
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_52
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 224
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_53
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 168
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_54
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 112
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_55
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 400
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_56
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 456
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 344
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_58
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 42
+        width: 16
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_59
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 42
+        width: 16
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_60
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 10
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_61
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 208
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_62
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 6
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_63
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_64
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 287
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_65
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 357
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_66
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 230
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_67
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 413
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_68
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 173
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_69
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 299
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_70
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 357
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_71
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 243
+        width: 8
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_72
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 172
+        width: 17
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 456
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_74
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 56
+        width: 8
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_75
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 413
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_76
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 14
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_77
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 469
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_78
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 115
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_79
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 58
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_80
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 9
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_81
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 15
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_82
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 301
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_83
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 370
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_84
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 428
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_85
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 471
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_86
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 260
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_87
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 313
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_88
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 387
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_89
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 188
+        width: 23
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_90
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 116
+        width: 8
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_91
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 241
+        width: 23
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_92
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 371
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_93
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 192
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_94
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 313
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_95
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 19
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_96
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 241
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_97
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 21
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_98
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3
+        width: 57
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_99
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 404
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_100
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 125
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_101
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 390
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_102
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 66
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_103
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 171
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_104
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 476
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_105
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 8
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_106
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 103
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_107
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 184
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_108
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 21
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_109
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 383
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_110
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 150
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_111
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 128
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_112
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3
+        width: 42
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_113
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 374
+        width: 74
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_114
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_115
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 70
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_116
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 13
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_117
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 34
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_118
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 433
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_119
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 318
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_120
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 252
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_121
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 102
+        width: 0
+        height: 0
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_122
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 318
+        width: 10
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_123
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 182
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_124
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 375
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_125
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 336
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_126
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 456
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_127
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 110
+        width: 8
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_128
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 264
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_129
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 319
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_130
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 207
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_131
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 3
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_132
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 476
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_133
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 182
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_134
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 241
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_135
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 125
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_136
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 11
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_137
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 488
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_138
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 78
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_139
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 402
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_140
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 344
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_141
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 174
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_142
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 22
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_143
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 274
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_144
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 253
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_145
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_146
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 94
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_147
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 425
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_148
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 389
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_149
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 453
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_150
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 35
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_151
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 215
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_152
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 158
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_153
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 384
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_154
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 315
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_155
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 146
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_156
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 248
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_157
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 446
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_158
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 379
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_159
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 323
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_160
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 440
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_161
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 77
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_162
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 8
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_163
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 179
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_164
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 257
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_165
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 371
+        width: 16
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_166
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 371
+        width: 16
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_167
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 443
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_168
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 113
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_169
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 57
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_170
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 190
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_171
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 120
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_172
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 301
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_173
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 373
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_174
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 444
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_175
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 234
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_176
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 123
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_177
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 313
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_178
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 374
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_179
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 50
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_180
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 164
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_181
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 445
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_182
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 95
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_183
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 39
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_184
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 37
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_185
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 256
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_186
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 317
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_187
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 388
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_188
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 456
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_189
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 199
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_190
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 140
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_191
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 97
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_192
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 40
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_193
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 260
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_194
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 203
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_195
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 146
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_196
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 331
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_197
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 384
+        width: 16
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_198
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 400
+        width: 16
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_199
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 400
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_200
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 456
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_201
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 274
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_202
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_203
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 343
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_204
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 217
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_205
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 455
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_206
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 90
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_207
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 160
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_208
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_209
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 3
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_210
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 33
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_211
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 33
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_212
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 103
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_213
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 46
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_214
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 272
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_215
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 385
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Littera Font_216
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 201
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

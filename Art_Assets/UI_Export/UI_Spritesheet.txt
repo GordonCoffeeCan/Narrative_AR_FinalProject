@@ -1,0 +1,92 @@
+{"frames": {
+
+"Asset 1.png":
+{
+	"frame": {"x":5,"y":5,"w":60,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":65},
+	"sourceSize": {"w":60,"h":65}
+},
+"Asset 2.png":
+{
+	"frame": {"x":70,"y":5,"w":554,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":554,"h":51},
+	"sourceSize": {"w":554,"h":51}
+},
+"Asset 3.png":
+{
+	"frame": {"x":629,"y":5,"w":27,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":24},
+	"sourceSize": {"w":27,"h":24}
+},
+"Asset 4.png":
+{
+	"frame": {"x":661,"y":5,"w":70,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":76},
+	"sourceSize": {"w":70,"h":76}
+},
+"Asset 5.png":
+{
+	"frame": {"x":736,"y":5,"w":81,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":71},
+	"sourceSize": {"w":81,"h":71}
+},
+"Asset 6.png":
+{
+	"frame": {"x":5,"y":86,"w":316,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":130},
+	"sourceSize": {"w":316,"h":130}
+},
+"Asset 7.png":
+{
+	"frame": {"x":326,"y":86,"w":316,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":130},
+	"sourceSize": {"w":316,"h":130}
+},
+"Asset 8.png":
+{
+	"frame": {"x":647,"y":86,"w":316,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":130},
+	"sourceSize": {"w":316,"h":130}
+},
+"Asset 9.png":
+{
+	"frame": {"x":5,"y":221,"w":315,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":315,"h":130},
+	"sourceSize": {"w":315,"h":130}
+},
+"Panel.png":
+{
+	"frame": {"x":5,"y":356,"w":709,"h":1132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":709,"h":1132},
+	"sourceSize": {"w":709,"h":1132}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "UI_Spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3fc1787fb57464f9d65477f57ea584b8:1/1$"
+}
+}
